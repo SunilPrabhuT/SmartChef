@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="SmartChecfDbContext-Web.config Connection String" description="SmartChecfDbContext Connection String used in web.config by the application to access the database." defaultValue="data source=SUNILP\SQLEXPRESS_2016;initial catalog=CascadeOMS;user id=Test;password=sun143SAT!@#;MultipleActiveResultSets=True;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\sunilp\\Documents\\Visual\ Studio\ 2017\\Projects\\SmartCheck\\SmartCheck\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SmartChecfDbContext']/@connectionString" />
-  </parameter>
-</parameters>
